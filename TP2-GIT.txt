@@ -1,2 +1,3 @@
 #Estos son los datos iniciales de la rama original
 #Para TP2-GIT.txt
+#Estos son los comentarios que se agregan en nueva-rama
